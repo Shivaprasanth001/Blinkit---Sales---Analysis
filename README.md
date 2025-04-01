@@ -37,6 +37,8 @@ Core Visualizations & Business Insights:
 
 🗂️ Data Gathering From - Data Tutorials 
 
+   ![Dashboard Preview](dashboard_preview.png)
+
 ## Features
 - **Sales Trends**: Visualizes sales trends over time to identify patterns.
 - **Regional Analysis**: Compares sales across different regions (e.g., BLR, KOL, GUR).
