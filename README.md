@@ -18,10 +18,10 @@ Once the **Blinkit Sales Analysis Dashboard** is opened in Power BI Desktop:
 
 ## Key Insights:
 Key KPIs Analyzed:
- 📌 Total Sales – Overall revenue generated.
- 📌 Average Sales – Revenue per sale.
- 📌 Number of Items Sold – Total count of different items purchased.
- 📌 Average Rating – Customer satisfaction scores.
+  - Total Sales – Overall revenue generated.
+  - Average Sales – Revenue per sale.
+  - Number of Items Sold – Total count of different items purchased.
+  - Average Rating – Customer satisfaction scores.
 Core Visualizations & Business Insights:
 📊 Total Sales by Fat Content – Understanding the impact of product composition (Donut Chart).
  📊 Total Sales by Item Type – Identifying top-performing categories (Bar Chart).
